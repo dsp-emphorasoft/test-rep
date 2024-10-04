@@ -1,0 +1,29 @@
+PO-ASO2425-0071
+flag to inegrate item 
+flag to integrate employee
+add weigh in QB item 
+====================================
+1. QB beta account setup in Netsuite-   (Nutraj-8hrs)
+2. Updating the ZATCA sandbox authentication details to ZATCA production details (Fourwinds-6 Hrs)
+3. UAT Issues (NinjaVan) if UAT issues come
+2. New CR's-(NutRaj-40 hrs)
+=======================================
+1. if in out we not to delete ir
+2. 
+===================================
+https://testApi.queuebuster.co/API/public/v1/thirdparty/getUserList
+https://testApi.queuebuster.co/API/public/v1/thirdParty/getUserList
+=========================================
+Serial Number is fulfilled can't delete the Item Receipt 
+===========================
+20081920
+
+INV-RUH-2024-06-0722
+INV-JED-2024-07-0696
+CM-JED-2024-08-0044
+CS-INV-JED-2024-08-0003
+================
+8346781508
+kkbk0007466
+=============================
+in qb vendor mapping change addres i.e., state and country and in code change gst numberv 
